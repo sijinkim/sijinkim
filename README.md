@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🤙 I’m sijin Kim, I'm an engineer focused on learning and applying the skills necessary *to solve the current challenges I am facing*.
+
+---
+### Experience
+- 💼 CJ Olivenetworks(2021.01 ~ 2024.01)
+- 🎓 LaMDA Lab in Ajou Univ. Master's Degree of Computer Science(2018.09 ~ 2020.08)
+- 🎓 Internship at LaMDA Lab in Ajou Univ. (2017.07 ~ 2018.08)
 <!--
 **sijinkim/sijinkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
